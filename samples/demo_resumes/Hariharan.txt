@@ -1,0 +1,20 @@
+Hariharan
+Email: hariharan@example.com | Phone: +91-9843012345
+Senior Backend Engineer
+
+Summary:
+Backend engineer focused on reliable APIs and data-heavy services. 5 years of experience.
+
+Skills:
+Python, Java, Node.js, Django, Flask, REST API, MySQL, PostgreSQL, Git, GitHub, Docker, Kubernetes, AWS, Agile, Scrum, Data Structures, Algorithms, Communication, Teamwork, Leadership, Problem Solving
+
+Experience:
+Senior Backend Engineer - Tech Solutions Pvt Ltd (2021 - Present)
+- Built REST API services with Django, Flask and Node.js.
+- Tuned MySQL and PostgreSQL queries for high traffic.
+- Containerised services with Docker and Kubernetes on AWS.
+- Mentored juniors in an Agile and Scrum team.
+
+Education:
+Bachelor of Technology in Information Technology
+PQR Institute of Technology, 2019

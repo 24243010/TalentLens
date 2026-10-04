@@ -1,0 +1,15 @@
+Priya
+Email: priya@example.com | Phone: +91-9812345678
+Full Stack Developer
+
+Skills:
+Python, Java, TypeScript, React, Node.js, Django, GraphQL,
+MySQL, PostgreSQL, Git, GitHub, Docker, Kubernetes, AWS, Azure,
+REST API, Agile, Scrum, Data Structures, Algorithms,
+Communication, Teamwork, Leadership, Problem Solving
+
+Experience:
+Full Stack Developer - Cloudify Systems (2021 - Present)
+- Built scalable web apps with React, Node.js, and GraphQL.
+- Deployed microservices using Docker and Kubernetes on Azure.
+- Led an Agile team of 4 developers through sprint planning.

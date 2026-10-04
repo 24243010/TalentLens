@@ -1,0 +1,26 @@
+Karthik
+Email: karthik@example.com | Phone: +91-9977553311
+Mobile Application Developer
+
+Summary:
+Mobile developer with experience building Android and cross platform
+apps. Some backend and API experience.
+
+Skills:
+Java, Kotlin, Android, Flutter, ReactNative, REST API, Git, GitHub,
+MySQL, Firebase, Agile, Communication, Teamwork, Problem Solving
+
+Experience:
+Mobile Application Developer - Appwave Technologies (2020 - Present)
+- Built and maintained Android applications using Kotlin and Java.
+- Integrated REST APIs for backend communication.
+- Used Firebase for authentication and push notifications.
+- Collaborated with backend engineers in an Agile team.
+
+Junior Developer - CodeSpring (2018 - 2020)
+- Assisted in building cross platform apps using Flutter.
+- Used Git and GitHub for version control.
+
+Education:
+Bachelor of Engineering in Computer Science
+PQR College of Engineering, 2018

@@ -1,0 +1,29 @@
+Vignesh
+Email: vignesh@example.com | Phone: +91-9654321098
+DevOps Engineer
+
+Summary:
+DevOps engineer focused on cloud infrastructure, automation, and
+CI/CD pipelines, with solid full stack development background.
+
+Skills:
+Python, Java, JavaScript, React, Node.js, Docker, Kubernetes, AWS,
+Azure, GCP, Jenkins, Terraform, Ansible, Git, GitHub, GitLab, CICD,
+Linux, DevOps, REST API, Agile, Scrum, Communication, Teamwork,
+Problem Solving, Leadership
+
+Experience:
+DevOps Engineer - CloudNet Solutions (2020 - Present)
+- Built CI/CD pipelines using Jenkins and GitLab.
+- Managed Kubernetes clusters on AWS and Azure.
+- Automated infrastructure provisioning using Terraform and Ansible.
+- Supported development teams with REST API deployments in an Agile
+  environment.
+
+Software Engineer - NetCore Systems (2018 - 2020)
+- Developed backend services in Python and Node.js.
+- Built React front-ends for internal admin tools.
+
+Education:
+Bachelor of Technology in Computer Science
+DEF University, 2018

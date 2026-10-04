@@ -1,0 +1,21 @@
+Lavanya
+Email: lavanya@example.com | Phone: +91-9876501234
+Lead Full Stack Engineer
+
+Summary:
+Lead full stack engineer who designs, builds and ships scalable web applications end to end, mentors teams and works in Agile and Scrum. 6 years of experience.
+
+Skills:
+Python, Java, JavaScript, TypeScript, React, Node.js, GraphQL, Django, Flask, REST API, MySQL, PostgreSQL, MongoDB, Git, GitHub, Docker, Kubernetes, AWS, Azure, Agile, Scrum, Data Structures, Algorithms, Machine Learning, Communication, Teamwork, Leadership, Problem Solving
+
+Experience:
+Lead Full Stack Engineer - Tech Solutions Pvt Ltd (2021 - Present)
+- Led a team of 6 engineers building React and TypeScript front-ends with Node.js and GraphQL back-ends.
+- Designed REST API services in Django and Flask backed by MySQL and PostgreSQL.
+- Deployed containers with Docker and Kubernetes on AWS and Azure.
+- Applied Machine Learning models for recommendation features and ran Agile and Scrum ceremonies.
+- Reviewed code, mentored junior developers and solved complex Data Structures and Algorithms problems.
+
+Education:
+Bachelor of Engineering in Computer Science
+ABC College of Engineering, 2018

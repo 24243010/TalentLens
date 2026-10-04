@@ -1,0 +1,19 @@
+Sangeetha
+Email: sangeetha@example.com | Phone: +91-9360078901
+QA Engineer
+
+Summary:
+QA engineer testing web applications. 2 years of experience.
+
+Skills:
+Python, Selenium, REST API, MySQL, Git, Jira, Agile, Scrum, Communication, Teamwork
+
+Experience:
+QA Engineer - Tech Solutions Pvt Ltd (2021 - Present)
+- Wrote Selenium tests in Python.
+- Tested REST API endpoints.
+- Took part in Agile and Scrum meetings.
+
+Education:
+Bachelor of Science in Computer Science
+RST College, 2022

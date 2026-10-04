@@ -1,0 +1,18 @@
+Manasha
+Email: manasha@example.com | Phone: +91-9250089012
+Fresher - Web Development
+
+Summary:
+Recent graduate learning web development. 0 years of experience.
+
+Skills:
+Python, HTML, CSS, Git, Communication, Teamwork
+
+Experience:
+Fresher - Web Development - Tech Solutions Pvt Ltd (2021 - Present)
+- Built a personal portfolio website.
+- Completed a Python mini project.
+
+Education:
+Bachelor of Science in Computer Science
+JKL College, 2025

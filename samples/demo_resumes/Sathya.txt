@@ -1,0 +1,19 @@
+Sathya
+Email: sathya@example.com | Phone: +91-9677045678
+Frontend Developer
+
+Summary:
+Frontend developer who loves clean, responsive interfaces. 3 years of experience.
+
+Skills:
+JavaScript, TypeScript, React, HTML, CSS, REST API, Git, GitHub, Agile, Communication, Teamwork, Problem Solving
+
+Experience:
+Frontend Developer - Tech Solutions Pvt Ltd (2021 - Present)
+- Built responsive React and TypeScript interfaces.
+- Consumed REST API services.
+- Collaborated in an Agile team.
+
+Education:
+Bachelor of Computer Applications
+STU College, 2021

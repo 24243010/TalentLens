@@ -1,0 +1,25 @@
+Meena
+Email: meena@example.com | Phone: +91-9543210987
+Fresher - Computer Science Graduate
+
+Summary:
+Recent Computer Science graduate with academic project experience in
+web development and a strong willingness to learn.
+
+Skills:
+C, C++, Python, HTML, CSS, JavaScript, MySQL, Git, Data Structures,
+Algorithms, Communication, Teamwork, Adaptability
+
+Academic Projects:
+- Built a simple library management system using Python and MySQL.
+- Developed a personal portfolio website using HTML, CSS, and
+  JavaScript.
+- Implemented common Data Structures and Algorithms as part of
+  coursework.
+
+Education:
+Bachelor of Engineering in Computer Science
+GHI College of Engineering, 2024
+
+Certifications:
+Python Programming - Online Certification

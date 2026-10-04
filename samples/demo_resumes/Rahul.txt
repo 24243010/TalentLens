@@ -1,0 +1,34 @@
+Rahul
+Email: rahul@example.com | Phone: +91-9876543210
+Software Engineer
+
+Summary:
+Motivated software engineer with 3 years of experience building web applications
+and working with data pipelines. Passionate about clean code, teamwork, and
+continuous learning.
+
+Skills:
+Python, Java, JavaScript, React, Node.js, Django, Flask, HTML, CSS,
+MySQL, MongoDB, Git, GitHub, Docker, AWS, REST API, Agile, Scrum,
+Data Structures, Algorithms, Object Oriented Programming, Machine Learning,
+Pandas, NumPy, Communication, Teamwork, Problem Solving, Leadership
+
+Experience:
+Software Engineer - Bright Solutions Pvt Ltd (2022 - Present)
+- Developed and maintained REST APIs using Django and Flask.
+- Built responsive front-end interfaces using React and Bootstrap.
+- Worked with MySQL and MongoDB databases for data storage.
+- Used Git and GitHub for version control and collaborated in an Agile team.
+- Deployed applications on AWS using Docker containers.
+
+Junior Developer - Nimbus Tech (2021 - 2022)
+- Assisted in building internal tools using Python and JavaScript.
+- Wrote unit tests to ensure code quality and reliability.
+- Participated in Scrum ceremonies and sprint planning.
+
+Education:
+Bachelor of Technology in Computer Science
+ABC University, 2021
+
+Certifications:
+AWS Certified Cloud Practitioner

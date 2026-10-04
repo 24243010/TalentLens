@@ -1,0 +1,19 @@
+Venketash
+Email: venketash@example.com | Phone: +91-9445067890
+DevOps Engineer
+
+Summary:
+DevOps engineer automating builds and cloud infrastructure. 4 years of experience.
+
+Skills:
+Docker, Kubernetes, AWS, Azure, Linux, Jenkins, Git, GitHub, Python, Agile, Communication
+
+Experience:
+DevOps Engineer - Tech Solutions Pvt Ltd (2021 - Present)
+- Managed Docker and Kubernetes clusters on AWS and Azure.
+- Built Jenkins pipelines with Git and GitHub.
+- Wrote Python automation scripts.
+
+Education:
+Bachelor of Engineering in Computer Science
+UVW College, 2020

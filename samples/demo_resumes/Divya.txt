@@ -1,0 +1,26 @@
+Divya
+Email: divya@example.com | Phone: +91-9765432109
+Data Analyst
+
+Summary:
+Data analyst with a strong background in data analysis, statistics,
+and reporting. Some exposure to Python and machine learning concepts.
+
+Skills:
+Python, SQL, Excel, Tableau, PowerBI, Pandas, NumPy, Statistics,
+Data Analysis, Machine Learning, Communication, Presentation,
+Critical Thinking, Analytical Skills
+
+Experience:
+Data Analyst - Insight Metrics (2021 - Present)
+- Analyzed large datasets using Python, Pandas, and SQL.
+- Built dashboards in Tableau and PowerBI for business stakeholders.
+- Presented findings to leadership using clear data visualizations.
+
+Data Analyst Intern - Bright Analytics (2020 - 2021)
+- Cleaned and processed data using Excel and Python scripts.
+- Assisted senior analysts with statistical reporting.
+
+Education:
+Bachelor of Science in Statistics
+LMN University, 2020

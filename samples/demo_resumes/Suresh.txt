@@ -1,0 +1,32 @@
+Suresh
+Email: suresh@example.com | Phone: +91-9432109876
+Lead Software Architect
+
+Summary:
+Software architect with 8+ years of experience across full stack
+development, cloud infrastructure, and team leadership.
+
+Skills:
+Python, Java, TypeScript, React, Node.js, Django, GraphQL, MySQL,
+PostgreSQL, Git, GitHub, Docker, Kubernetes, AWS, Azure, REST API,
+Agile, Scrum, Data Structures, Algorithms, System Design, Machine
+Learning, Communication, Teamwork, Problem Solving, Leadership
+
+Experience:
+Lead Software Architect - Nova Enterprises (2019 - Present)
+- Led architecture decisions for microservices built with Django,
+  Node.js, and GraphQL.
+- Designed scalable systems deployed on AWS and Azure using Docker
+  and Kubernetes.
+- Oversaw REST API design across multiple product teams.
+- Drove Agile and Scrum practices across the engineering organization.
+- Mentored engineering leads and guided System Design reviews.
+
+Senior Software Engineer - Orion Tech (2015 - 2019)
+- Built full stack applications using Python, React, and MySQL.
+- Practiced strong Data Structures and Algorithms fundamentals in
+  interviews and system design.
+
+Education:
+Master of Technology in Computer Science
+STU Institute of Technology, 2015

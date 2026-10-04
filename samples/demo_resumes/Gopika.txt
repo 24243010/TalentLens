@@ -1,0 +1,19 @@
+Gopika
+Email: gopika@example.com | Phone: +91-9567056789
+Data Analyst
+
+Summary:
+Data analyst moving into Machine Learning. 2 years of experience.
+
+Skills:
+Python, Machine Learning, Pandas, NumPy, SQL, MySQL, Git, GitHub, Data Structures, Algorithms, Communication, Problem Solving
+
+Experience:
+Data Analyst - Tech Solutions Pvt Ltd (2021 - Present)
+- Built Machine Learning models in Python.
+- Queried MySQL databases for reports.
+- Shared findings with business teams.
+
+Education:
+Bachelor of Science in Statistics
+DEF College, 2022

@@ -1,0 +1,27 @@
+Anitha
+Email: anitha@example.com | Phone: +91-9321098765
+QA / Test Engineer
+
+Summary:
+QA engineer with experience in manual and automated testing for web
+applications, working closely with Agile development teams.
+
+Skills:
+Python, Java, Selenium, REST API, MySQL, Git, GitHub, Jira, Postman,
+Testing, Unit Testing, Agile, Scrum, Communication, Teamwork,
+Problem Solving, Analytical Skills
+
+Experience:
+QA Engineer - TrustLine Software (2020 - Present)
+- Wrote automated test scripts using Python and Selenium.
+- Tested REST APIs using Postman and reported issues via Jira.
+- Collaborated with developers in Agile and Scrum ceremonies.
+- Maintained test cases and unit testing coverage reports.
+
+QA Intern - CodeBridge Pvt Ltd (2019 - 2020)
+- Performed manual testing on web applications.
+- Logged and tracked defects using Jira.
+
+Education:
+Bachelor of Science in Computer Applications
+JKL College, 2019

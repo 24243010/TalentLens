@@ -1,0 +1,20 @@
+Keerthana
+Email: keerthana@example.com | Phone: +91-9791023456
+Full Stack Developer
+
+Summary:
+Full stack developer building web products with React and Node.js. 4 years of experience.
+
+Skills:
+Python, JavaScript, TypeScript, React, Node.js, Flask, REST API, MySQL, Git, GitHub, Docker, AWS, Agile, Scrum, Data Structures, Communication, Teamwork, Problem Solving
+
+Experience:
+Full Stack Developer - Tech Solutions Pvt Ltd (2021 - Present)
+- Built React and TypeScript dashboards.
+- Created REST API endpoints with Node.js and Flask.
+- Deployed Docker images to AWS.
+- Worked in Agile and Scrum sprints.
+
+Education:
+Bachelor of Engineering in Computer Science
+LMN College of Engineering, 2020

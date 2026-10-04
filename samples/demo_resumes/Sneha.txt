@@ -1,0 +1,32 @@
+Sneha
+Email: sneha@example.com | Phone: +91-9900112233
+Senior Software Engineer
+
+Summary:
+Full stack engineer with 5 years of experience designing and shipping
+scalable web applications. Comfortable across the entire stack from
+database design to front-end UI.
+
+Skills:
+Python, Java, TypeScript, JavaScript, React, Node.js, GraphQL, Django,
+Flask, MySQL, PostgreSQL, MongoDB, Git, GitHub, Docker, Kubernetes,
+AWS, Azure, REST API, Agile, Scrum, Data Structures, Algorithms,
+Object Oriented Programming, Machine Learning, Communication,
+Teamwork, Leadership, Problem Solving
+
+Experience:
+Senior Software Engineer - Vertex Labs (2021 - Present)
+- Designed REST APIs and GraphQL services using Django and Node.js.
+- Built React front-ends with TypeScript for internal dashboards.
+- Managed PostgreSQL and MongoDB databases for high-traffic services.
+- Deployed and scaled services on AWS and Azure using Docker and
+  Kubernetes.
+- Mentored junior engineers and led Agile sprint planning sessions.
+
+Software Engineer - Quanta Systems (2019 - 2021)
+- Built internal tools using Python and Flask.
+- Worked closely with product teams in a Scrum environment.
+
+Education:
+Bachelor of Technology in Information Technology
+XYZ Institute of Technology, 2019

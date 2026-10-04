@@ -1,0 +1,19 @@
+Siva
+Email: siva@example.com | Phone: +91-9488034567
+Java Developer
+
+Summary:
+Java developer with Spring Boot and relational database experience. 3 years of experience.
+
+Skills:
+Java, Spring Boot, REST API, MySQL, PostgreSQL, Git, GitHub, Docker, Agile, Scrum, Data Structures, Algorithms, Communication, Teamwork
+
+Experience:
+Java Developer - Tech Solutions Pvt Ltd (2021 - Present)
+- Developed REST API services in Java and Spring Boot.
+- Designed MySQL and PostgreSQL schemas.
+- Used Git, GitHub and Docker in an Agile and Scrum team.
+
+Education:
+Bachelor of Engineering in Information Technology
+GHI College, 2021

@@ -1,0 +1,12 @@
+Arun
+Email: arun@example.com | Phone: +91-9845123456
+Backend Developer
+
+Skills:
+Python, Java, MySQL, Git, REST API, Agile, Communication, Teamwork
+
+Experience:
+Backend Developer - DataCore Ltd (2020 - Present)
+- Built REST APIs using Java and Python.
+- Worked with MySQL databases and Git version control.
+- Collaborated with cross functional teams in Agile sprints.
